@@ -1,1 +1,3 @@
 # price-calculator
+
+git clone
